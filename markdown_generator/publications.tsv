@@ -1,3 +1,3 @@
 pub_date	title	venue	excerpt	citation	url_slug	paper_url
 2019-03-29	Paper about Rowing	Journal ABC	This is what I have to say about rowing	"Celle, Agnès. (2019). ""Paper Title Number 3."" <i>Journal 1</i>. 1(3)."	paper-title-number-1	https://www.boulogne92.fr/
-2019-02-12	Paper test	Journal BCD	This is a paper for which there is no link provided	"Celle, Agnès. (2019)"	paper-title-number-2	
+2019-02-12	Paper test	Journal BCD	This is a paper for which there is no link provided	"Celle, Agnès. (2019). ""Paper Title Number 2.” <i>Journal 1</i>. 1(3)."	paper-title-number-2	
