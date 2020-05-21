@@ -56,6 +56,7 @@ def html_escape(text):
 def clean(text):
     clean = text.replace(" ", "-")
     clean = clean.replace("/", "-")
+    clean = clean.replace(",", "")
     return clean
 
 
