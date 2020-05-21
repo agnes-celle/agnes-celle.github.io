@@ -91,7 +91,7 @@ for row, item in projects.iterrows():
         
     md += "\nRole: " + item.role
 
-    md += "\nProject Description: " + item.description
+    md += "\n\nProject Description: " + item.description
     
     md_filename = os.path.basename(md_filename)
        
