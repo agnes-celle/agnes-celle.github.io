@@ -3,7 +3,7 @@ title: "Project test"
 collection: projects
 permalink: /project/project-title-1
 excerpt: ''
-date: '2012-2015'
+date_str: '2012-2015'
 venue: 'University XYZ'
 role: 'Coordinator'
 ---
