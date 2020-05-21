@@ -2,6 +2,7 @@
 title: "Paper about Rowing"
 collection: publications
 permalink: /publication/2019-03-29-paper-title-number-1
+excerpt: ''
 date: 2019-03-29
 venue: 'Journal ABC'
 paperurl: 'https://www.boulogne92.fr/'
