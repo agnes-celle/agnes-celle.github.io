@@ -88,10 +88,8 @@ for row, item in projects.iterrows():
     md += "\n---"
     
     ## Markdown description for individual page
-        
-    md += "\nRole: " + item.role
 
-    md += "\n\nProject Description: " + item.description
+    md += "\n" + item.description
     
     md_filename = os.path.basename(md_filename)
        

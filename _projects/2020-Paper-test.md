@@ -6,6 +6,4 @@ excerpt: ''
 date_str: 2020
 role: Collaborator
 ---
-Role: Collaborator
-
-Project Description: Some description
+Some description
