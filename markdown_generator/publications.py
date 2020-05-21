@@ -76,7 +76,7 @@ for row, item in publications.iterrows():
     
     md += """\npermalink: /publication/""" + html_filename
 
-    md += "\nexcerpt: "
+    md += "\nexcerpt: ''"
     
     md += "\ndate: " + str(item.pub_date) 
     
