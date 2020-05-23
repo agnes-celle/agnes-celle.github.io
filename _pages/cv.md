@@ -18,7 +18,7 @@ Degrees
 
 Academic and Research Positions
 ======
-* 2019-2020: Délégation CNRS, UMR LLF
+* 2019-2021: Délégation CNRS, UMR LLF
 
 * 2018: Visiting Scholar, University of Colorado, Boulder, Department of Linguistics  
 
@@ -32,7 +32,7 @@ Academic and Research Positions
   
 Awards
 ======
-* 2019-2020: Research leave awarded by CNRS (1 year)     
+* 2019-2021: Research leave awarded by CNRS (2 years)     
 * 2018: Prestige Fellow and Marie Curie Fellow under Prestige grant n°2017-3-0004
 * 2017-2018: Research leave awarded by the National Council for Universities
 * 2010-present: Research and doctoral supervision award (“Prime d’encadrement doctoral et de recherche”) awarded by the Ministry of National Education, Higher Education and Research in 2010, 2014 and 2018
