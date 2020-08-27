@@ -1,7 +1,7 @@
 ---
 title: "Paper test"
 collection: publications
-permalink: /publication/2019-02-12-paper-title-number-2
+permalink: /publication/2019-02-12-Paper test
 excerpt: ''
 date: 2019-02-12
 venue: 'Journal BCD'

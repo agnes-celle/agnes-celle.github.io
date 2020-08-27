@@ -34,7 +34,7 @@ import pandas as pd
 
 # In[3]:
 
-projects = pd.read_csv("projects.tsv", sep="\t", header=0)
+projects = pd.read_csv("projects.csv")
 
 
 # ## Escape special characters
