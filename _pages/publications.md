@@ -12,11 +12,15 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.publications reversed %}
+	{% if post.title == 'Paper about Rowing'}
   {% include archive-single.html %}
+	{% endif}
 {% endfor %}
 
 <p> Text test </p>
 
-{% for post in site.publications.test reversed %}
+{% for post in site.publications reversed %}
+	{% if post.title != 'Paper about Rowing'}
   {% include archive-single.html %}
+	{% endif}
 {% endfor %}
