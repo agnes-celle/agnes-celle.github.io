@@ -14,3 +14,9 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+<p> Text test </p>
+
+{% for post in site.publications.test reversed %}
+  {% include archive-single.html %}
+{% endfor %}
