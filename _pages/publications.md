@@ -17,7 +17,7 @@ author_profile: true
 	{% endif %}
 {% endfor %}
 
-<h1 class="page__title">Text test</h1>
+<h2 class="page__title">Text test</h2>
 
 {% for post in site.publications reversed %}
 	{% if post.title != 'Paper about Rowing' %}
