@@ -86,6 +86,8 @@ for row, item in publications.iterrows():
         md += "\npaperurl: '" + item.paper_url + "'"
     
     md += "\ncitation: '" + html_escape(item.citation) + "'"
+
+    md += "\ncategory: '" + item.category + "'"
     
     md += "\n---"
     

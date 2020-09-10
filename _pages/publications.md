@@ -11,16 +11,50 @@ author_profile: true
 
 {% include base_path %}
 
+<h2 class="page__title">Books</h2>
+
 {% for post in site.publications reversed %}
-	{% if post.title == 'Paper about Rowing' %}
+	{% if post.category == 'Books' %}
   {% include archive-single.html %}
 	{% endif %}
 {% endfor %}
 
-<h2 class="page__title">Text test</h2>
+<h2 class="page__title">(Co-)edited books</h2>
 
 {% for post in site.publications reversed %}
-	{% if post.title != 'Paper about Rowing' %}
+	{% if post.title != '(Co-)edited books' %}
+  {% include archive-single.html %}
+	{% endif %}
+{% endfor %}
+
+<h2 class="page__title">Journal articles</h2>
+
+{% for post in site.publications reversed %}
+	{% if post.title != 'Journal articles' %}
+  {% include archive-single.html %}
+	{% endif %}
+{% endfor %}
+
+<h2 class="page__title">Book chapters</h2>
+
+{% for post in site.publications reversed %}
+	{% if post.title != 'Book chapters' %}
+  {% include archive-single.html %}
+	{% endif %}
+{% endfor %}
+
+<h2 class="page__title">Conference proceedings</h2>
+
+{% for post in site.publications reversed %}
+	{% if post.title != 'Conference proceedings' %}
+  {% include archive-single.html %}
+	{% endif %}
+{% endfor %}
+
+<h2 class="page__title">Book reviews</h2>
+
+{% for post in site.publications reversed %}
+	{% if post.title != 'Book reviews' %}
   {% include archive-single.html %}
 	{% endif %}
 {% endfor %}
