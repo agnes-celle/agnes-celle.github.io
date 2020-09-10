@@ -84,7 +84,11 @@ for row, item in publications.iterrows():
     if len(str(item.paper_url)) > 5:
         md += "\npaperurl: '" + item.paper_url + "'"
     
-    md += "\ncitation: '" + html_escape(item.citation) + "'"
+    if len(str(item.citation)) > 5:
+        md += "\ncitation: '" + html_escape(item.citation) + "'"
+    else:
+        auto_citation = f"Celle, Agnès ({item.pub_date}). '{item.title}' <i>{item.venue}</i>"
+        md += "\ncitation: '" + html_escape(auto_citation) + "'"
 
     md += "\ncategory: '" + item.category + "'"
     
@@ -97,8 +101,11 @@ for row, item in publications.iterrows():
         
     if len(str(item.excerpt)) > 5:
         md += "\n" + html_escape(item.excerpt) + "\n"
-        
-    md += "\nRecommended citation: " + item.citation
+    
+    if len(str(item.citation)) > 5:
+        md += "\nRecommended citation: " + item.citation
+    else:
+        md += "\nRecommended citation: " + auto_citation
     
     md_filename = os.path.basename(md_filename)
        
