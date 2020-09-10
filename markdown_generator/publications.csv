@@ -1,4 +1,11 @@
 pub_date,category,title,venue,excerpt,citation,paper_url
-2019,Book chapters,Paper about Rowing,Journal ABC,This is what I have to say about rowing,"Celle, Agnès. (2019). ""Paper Title Number 3."" <i>Journal 1</i>. 1(3).",https://www.boulogne92.fr/
-2019,Journal articles,Paper test,Journal BCD,This is a paper for which there is no link provided,,
 2006,Books,"Temps et modalité, l’anglais, le français et l’allemand en contraste",Berne : Peter Lang,,,
+1998,Books,Analyse grammaticale dans les textes. Anglais: concours,"Paris, Ophrys","With J. Bouscaren, S. Persec, R. Flintham and S. Gresset.", ,
+1997,Books,Etude contrastive du futur français et de ses réalisations en anglais,"Paris & Gap, Ophrys",,,
+2019,(Co-)edited books,Surprise at the intersection of phenomenology and linguistics,"Amsterdam, Philadelphia: John Benjamins",With N. Depraz (eds),"Celle, Depraz (2019). “Surprise at the intersection of phenomenology and linguistics”, <i>Amsterdam, Philadelphia: John Benjamins, [Consciousness and Emotion Series]</i>",
+2018,(Co-)edited books,"Tense, aspect, modality, evidentiality: crosslinguistic perspectives",Amsterdam/Philadelphia: John Benjamins,With D. Ayoun and L. Lansari (eds),"Ayoun, Celle, Lansari (2018). “Tense, aspect, modality, evidentiality: crosslinguistic perspectives”, <i>Amsterdam/Philadelphia: John Benjamins</i>",
+2017,(Co-)edited books,The linguistic expression of mirativity,Review of Cognitive Linguistics,With A. Tsangalidis (eds). Special Issue 15/2,"Celle, Tsangalidis (2017). “The linguistic expression of mirativity”, <i>Review of Cognitive Linguistics, Special Issue 15/2</i>",
+2017,(Co-)edited books,Expressing and Describing Surprise,"Amsterdam, Philadelphia: John Benjamins",With L. Lansari (eds). New version of 13/2 in <i>Review of Cognitive Linguistics</i>,"Celle, Lansari (2017). “Expressing and Describing Surprise” <i>Amsterdam, Philadelphia: John Benjamins, [Benjamins Current Issues]</i>",
+2015,(Co-)edited books,Expressing and Describing Surprise,Review of Cognitive Linguistics,"With L. Lansari. Special Issue, 13/2","Celle, Lansari (2015). “Expressing and Describing Surprise” <i>Review of Cognitive Linguistics, Special Issue 13/2</i>",
+2010,(Co-)edited books,Le discours du nationalisme en Europe,"Paris, L’improviste",With G. Komur (eds),"Celle, Komur (2010). “Le discours du nationalisme en Europe” <i>Paris, L’improviste</i>",
+2007,(Co-)edited books,"Les connecteurs, jalons du discours",Berne : Peter Lang,With S. Gresset and R. Huart (eds),"Celle, Gresset, Huart (2007). “Les connecteurs, jalons du discours” <i>Berne : Peter Lang. [Collection Sciences pour la communication]</i>",

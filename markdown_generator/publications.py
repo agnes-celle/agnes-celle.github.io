@@ -87,7 +87,7 @@ for row, item in publications.iterrows():
     if len(str(item.citation)) > 5:
         md += "\ncitation: '" + html_escape(item.citation) + "'"
     else:
-        auto_citation = f"Celle, Agnès ({item.pub_date}). '{item.title}' <i>{item.venue}</i>"
+        auto_citation = f"Celle, Agnès ({item.pub_date}). '{item.title}', <i>{item.venue}</i>"
         md += "\ncitation: '" + html_escape(auto_citation) + "'"
 
     md += "\ncategory: '" + item.category + "'"
