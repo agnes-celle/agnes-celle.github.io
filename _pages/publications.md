@@ -54,7 +54,7 @@ author_profile: true
 <h2 class="page__title">Book reviews</h2>
 
 {% for post in site.publications reversed %}
-	{% if if post.category == 'Book reviews' %}
+	{% if post.category == 'Book reviews' %}
   {% include archive-single.html %}
 	{% endif %}
 {% endfor %}
