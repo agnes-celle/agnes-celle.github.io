@@ -22,7 +22,7 @@ author_profile: true
 <h2 class="page__title">(Co-)edited books</h2>
 
 {% for post in site.publications reversed %}
-	{% if post.title != '(Co-)edited books' %}
+	{% if post.category == '(Co-)edited books' %}
   {% include archive-single.html %}
 	{% endif %}
 {% endfor %}
@@ -30,7 +30,7 @@ author_profile: true
 <h2 class="page__title">Journal articles</h2>
 
 {% for post in site.publications reversed %}
-	{% if post.title != 'Journal articles' %}
+	{% if post.category == 'Journal articles' %}
   {% include archive-single.html %}
 	{% endif %}
 {% endfor %}
@@ -38,7 +38,7 @@ author_profile: true
 <h2 class="page__title">Book chapters</h2>
 
 {% for post in site.publications reversed %}
-	{% if post.title != 'Book chapters' %}
+	{% if post.category == 'Book chapters' %}
   {% include archive-single.html %}
 	{% endif %}
 {% endfor %}
@@ -46,7 +46,7 @@ author_profile: true
 <h2 class="page__title">Conference proceedings</h2>
 
 {% for post in site.publications reversed %}
-	{% if post.title != 'Conference proceedings' %}
+	{% if post.category == 'Conference proceedings' %}
   {% include archive-single.html %}
 	{% endif %}
 {% endfor %}
@@ -54,7 +54,7 @@ author_profile: true
 <h2 class="page__title">Book reviews</h2>
 
 {% for post in site.publications reversed %}
-	{% if post.title != 'Book reviews' %}
+	{% if if post.category == 'Book reviews' %}
   {% include archive-single.html %}
 	{% endif %}
 {% endfor %}
