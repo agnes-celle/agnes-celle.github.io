@@ -66,7 +66,6 @@ for row, item in publications.iterrows():
     
     md_filename = str(item.pub_date) + "-" + item.title + ".md"
     html_filename = str(item.pub_date) + "-" + item.title
-    year = item.pub_date[:4]
     
     ## YAML variables
     
@@ -78,7 +77,7 @@ for row, item in publications.iterrows():
 
     md += "\nexcerpt: ''"
     
-    md += "\ndate: " + str(item.pub_date) 
+    md += "\ndate: " + str(item.pub_date) + "-01-01"
     
     md += "\nvenue: '" + html_escape(item.venue) + "'"
     
