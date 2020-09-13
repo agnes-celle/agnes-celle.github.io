@@ -65,7 +65,7 @@ import os
 for row, item in publications.iterrows():
     
     md_filename = str(item.pub_date) + "-" + item.title + ".md"
-    html_filename = str(item.pub_date) + "-" + item.title
+    html_filename = (str(item.pub_date) + "-" + item.title).replace(":","")
     
     ## YAML variables
     
