@@ -1,13 +1,13 @@
 ---
-title: "Expressing and Describing Surprise"
+title: "Expressing and Describing surprise"
 collection: publications
-permalink: /publication/2017-Expressing and Describing Surprise
+permalink: /publication/2017-Expressing and Describing surprise
 excerpt: ''
 date: 2017-01-01
-venue: 'Amsterdam, Philadelphia: John Benjamins'
-citation: 'Celle, Lansari (2017). “Expressing and Describing Surprise” <i>Amsterdam, Philadelphia: John Benjamins, [Benjamins Current Issues]</i>'
-category: '(Co-)edited books'
+venue: 'Expressing and Describing surprise'
+citation: 'Celle, Jugnet, Lansari, L’Hôte (2017). “Expressing and Describing surprise” in Celle A. et Lansari L. (eds) <i>Expressing and Describing surprise,</i> Amsterdam, John Benjamins, Benjamins Current Topics'
+category: 'Book chapters'
 ---
-With L. Lansari (eds). New version of 13/2 in <i>Review of Cognitive Linguistics</i>
+With A. Jugnet, L. Lansari, E. L’Hôte \n Amsterdam, John Benjamins, Benjamins Current Topics, pages 215-244
 
-Recommended citation: Celle, Lansari (2017). “Expressing and Describing Surprise” <i>Amsterdam, Philadelphia: John Benjamins, [Benjamins Current Issues]</i>
+Recommended citation: Celle, Jugnet, Lansari, L’Hôte (2017). “Expressing and Describing surprise” in Celle A. et Lansari L. (eds) <i>Expressing and Describing surprise,</i> Amsterdam, John Benjamins, Benjamins Current Topics

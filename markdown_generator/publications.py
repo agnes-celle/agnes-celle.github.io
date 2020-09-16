@@ -63,13 +63,15 @@ def html_escape(text):
 
 import os
 for row, item in publications.iterrows():
+
+    title = item.title.replace("/", "")
     
-    md_filename = str(item.pub_date) + "-" + item.title + ".md"
-    html_filename = (str(item.pub_date) + "-" + item.title).replace(":","")
+    md_filename = str(item.pub_date) + "-" + title + ".md"
+    html_filename = (str(item.pub_date) + "-" + title).replace(":","")
     
     ## YAML variables
     
-    md = "---\ntitle: \""   + item.title + '"\n'
+    md = "---\ntitle: \""   + title + '"\n'
     
     md += """collection: publications"""
     
@@ -87,7 +89,7 @@ for row, item in publications.iterrows():
     if len(str(item.citation)) > 5:
         md += "\ncitation: '" + html_escape(item.citation) + "'"
     else:
-        auto_citation = f"Celle, Agnès ({item.pub_date}). '{item.title}', <i>{item.venue}</i>"
+        auto_citation = f"Celle, Agnès ({item.pub_date}). '{title}', <i>{item.venue}</i>"
         md += "\ncitation: '" + html_escape(auto_citation) + "'"
 
     md += "\ncategory: '" + item.category + "'"
