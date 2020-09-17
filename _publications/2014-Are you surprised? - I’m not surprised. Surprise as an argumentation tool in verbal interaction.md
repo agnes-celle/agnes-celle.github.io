@@ -1,7 +1,7 @@
 ---
-title: "“Are you surprised?” “I’m not surprised”. Surprise as an argumentation tool in verbal interaction"
+title: "Are you surprised? - I’m not surprised. Surprise as an argumentation tool in verbal interaction"
 collection: publications
-permalink: /publication/2014-“Are you surprised?” “I’m not surprised”. Surprise as an argumentation tool in verbal interaction
+permalink: /publication/2014-Are you surprised? - I’m not surprised. Surprise as an argumentation tool in verbal interaction
 excerpt: ''
 date: 2014-01-01
 venue: 'Les émotions dans le discours. Emotions in discourse'
