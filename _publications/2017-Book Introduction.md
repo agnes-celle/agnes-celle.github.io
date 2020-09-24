@@ -8,6 +8,8 @@ venue: 'Expressing and Describing surprise'
 citation: 'Celle, Lansari (2017). “Introduction” in Celle A. et Lansari L. (eds) <i>Expressing and Describing surprise,</i> Amsterdam, John Benjamins, Benjamins Current Topics'
 category: 'Book chapters'
 ---
-With L. Lansari \n Amsterdam, John Benjamins, Benjamins Current Topics, pages 1-5
+With L. Lansari 
+
+ Amsterdam, John Benjamins, Benjamins Current Topics, pages 1-5
 
 Recommended citation: Celle, Lansari (2017). “Introduction” in Celle A. et Lansari L. (eds) <i>Expressing and Describing surprise,</i> Amsterdam, John Benjamins, Benjamins Current Topics

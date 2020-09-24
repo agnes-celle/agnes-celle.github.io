@@ -8,6 +8,8 @@ venue: 'Expressing and Describing surprise'
 citation: 'Celle, Jugnet, Lansari, L’Hôte (2017). “Expressing and Describing surprise” in Celle A. et Lansari L. (eds) <i>Expressing and Describing surprise,</i> Amsterdam, John Benjamins, Benjamins Current Topics'
 category: 'Book chapters'
 ---
-With A. Jugnet, L. Lansari, E. L’Hôte \n Amsterdam, John Benjamins, Benjamins Current Topics, pages 215-244
+With A. Jugnet, L. Lansari, E. L’Hôte 
+
+ Amsterdam, John Benjamins, Benjamins Current Topics, pages 215-244
 
 Recommended citation: Celle, Jugnet, Lansari, L’Hôte (2017). “Expressing and Describing surprise” in Celle A. et Lansari L. (eds) <i>Expressing and Describing surprise,</i> Amsterdam, John Benjamins, Benjamins Current Topics
