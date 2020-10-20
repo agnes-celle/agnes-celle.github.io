@@ -5,7 +5,7 @@ permalink: /publication/2014-Certainty, uncertainty and unexpectedness in Englis
 excerpt: ''
 date: 2014-01-01
 venue: 'Language and Dialogue'
-citation: 'Celle, Lansari (2014). “Certainty, uncertainty and unexpectedness in English and French, Towards a redefinition of the epistemic stance” <i>Language and Dialogue</i>'
+citation: '2014 (avec L. Lansari) “Certainty, uncertainty and unexpectedness in English and French, Towards a redefinition of the epistemic stance”, <i>Language and Dialogue</i>, 4:1, 7-23.'
 category: 'Journal articles'
 ---
-Celle, Lansari (2014). “Certainty, uncertainty and unexpectedness in English and French, Towards a redefinition of the epistemic stance” <i>Language and Dialogue</i>
+2014 (avec L. Lansari) “Certainty, uncertainty and unexpectedness in English and French, Towards a redefinition of the epistemic stance”, <i>Language and Dialogue</i>, 4:1, 7-23.

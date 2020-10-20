@@ -5,7 +5,7 @@ permalink: /publication/2002-Prospection et rétrospection  une question de poin
 excerpt: ''
 date: 2002-01-01
 venue: 'Langues et cultures en contact : Traduire e(s)t commenter, Recherches en Linguistique Etrangère n°22'
-citation: 'Celle (2002). “Prospection et rétrospection : une question de point de vue” <i>Langues et cultures en contact : Traduire e(s)t commenter, Recherches en Linguistique Etrangère n°22</i>'
+citation: '2002 « Prospection et rétrospection : une question de point de vue » <i>Langues et cultures en contact : Traduire e(s)t commenter, Recherches en Linguistique Etrangère</i> n°22, 45-56'
 category: 'Journal articles'
 ---
-Celle (2002). “Prospection et rétrospection : une question de point de vue” <i>Langues et cultures en contact : Traduire e(s)t commenter, Recherches en Linguistique Etrangère n°22</i>
+2002 « Prospection et rétrospection : une question de point de vue » <i>Langues et cultures en contact : Traduire e(s)t commenter, Recherches en Linguistique Etrangère</i> n°22, 45-56

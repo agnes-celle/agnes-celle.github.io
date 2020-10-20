@@ -5,7 +5,7 @@ permalink: /publication/2018-Epistemic evaluation in factual contexts in English
 excerpt: ''
 date: 2018-01-01
 venue: 'Epistemic modality and evidentiality in a Cross-Linguistic Perspective'
-citation: 'Celle (2018). “Epistemic evaluation in factual contexts in English” in Zlatka Guentchéva (ed.) <i>Epistemic modality and evidentiality in a Cross-Linguistic Perspective,</i> Berlin, Mouton de Gruyter [Empirical Approaches to Language Typology]'
+citation: '2018. « Epistemic evaluation in factual contexts in English » in Zlatka Guentchéva (ed.) <i>Epistemic modality and evidentiality in a Cross-Linguistic Perspective</i>, Berlin, Mouton de Gruyter [Empirical Approaches to Language Typology], 22-51'
 category: 'Book chapters'
 ---
-Celle (2018). “Epistemic evaluation in factual contexts in English” in Zlatka Guentchéva (ed.) <i>Epistemic modality and evidentiality in a Cross-Linguistic Perspective,</i> Berlin, Mouton de Gruyter [Empirical Approaches to Language Typology]
+2018. « Epistemic evaluation in factual contexts in English » in Zlatka Guentchéva (ed.) <i>Epistemic modality and evidentiality in a Cross-Linguistic Perspective</i>, Berlin, Mouton de Gruyter [Empirical Approaches to Language Typology], 22-51

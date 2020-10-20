@@ -5,7 +5,7 @@ permalink: /publication/2019-Surprise at the intersection of phenomenology and l
 excerpt: ''
 date: 2019-01-01
 venue: 'Amsterdam, Philadelphia: John Benjamins'
-citation: 'Celle, Depraz (2019). “Surprise at the intersection of phenomenology and linguistics”, <i>Amsterdam, Philadelphia: John Benjamins, [Consciousness and Emotion Series]</i>'
+citation: '2019 (- avec N. Depraz, eds.) <i>Surprise at the intersection of phenomenology and linguistics.</i> Amsterdam, Philadelphia: John Benjamins, [Consciousness and Emotion Series]'
 category: '(Co-)edited books'
 ---
-Celle, Depraz (2019). “Surprise at the intersection of phenomenology and linguistics”, <i>Amsterdam, Philadelphia: John Benjamins, [Consciousness and Emotion Series]</i>
+2019 (- avec N. Depraz, eds.) <i>Surprise at the intersection of phenomenology and linguistics.</i> Amsterdam, Philadelphia: John Benjamins, [Consciousness and Emotion Series]

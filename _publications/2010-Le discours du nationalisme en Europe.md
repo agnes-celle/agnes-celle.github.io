@@ -5,7 +5,7 @@ permalink: /publication/2010-Le discours du nationalisme en Europe
 excerpt: ''
 date: 2010-01-01
 venue: 'Paris, L’improviste'
-citation: 'Celle, Komur (2010). “Le discours du nationalisme en Europe” <i>Paris, L’improviste</i>'
+citation: '2010 (- avec G. Komur, eds.) <i>Le discours du nationalisme en Europe</i>. Paris, L’improviste'
 category: '(Co-)edited books'
 ---
-Celle, Komur (2010). “Le discours du nationalisme en Europe” <i>Paris, L’improviste</i>
+2010 (- avec G. Komur, eds.) <i>Le discours du nationalisme en Europe</i>. Paris, L’improviste

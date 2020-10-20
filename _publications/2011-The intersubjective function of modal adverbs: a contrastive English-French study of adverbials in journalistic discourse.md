@@ -5,7 +5,7 @@ permalink: /publication/2011-The intersubjective function of modal adverbs a con
 excerpt: ''
 date: 2011-01-01
 venue: 'Contrastive pragmatics, Special Issue of Languages in Contrast'
-citation: 'Celle (2011). “The intersubjective function of modal adverbs: a contrastive English-French study of adverbials in journalistic discourse” <i>Contrastive pragmatics, Special Issue of Languages in Contrast</i>'
+citation: '2011 “The intersubjective function of modal adverbs: a contrastive English-French study of adverbials in journalistic discourse” <i>Contrastive pragmatics</i>, Special Issue of <i>Languages in Contrast</i> 9:1 (2009), 23-36'
 category: 'Journal articles'
 ---
-Celle (2011). “The intersubjective function of modal adverbs: a contrastive English-French study of adverbials in journalistic discourse” <i>Contrastive pragmatics, Special Issue of Languages in Contrast</i>
+2011 “The intersubjective function of modal adverbs: a contrastive English-French study of adverbials in journalistic discourse” <i>Contrastive pragmatics</i>, Special Issue of <i>Languages in Contrast</i> 9:1 (2009), 23-36

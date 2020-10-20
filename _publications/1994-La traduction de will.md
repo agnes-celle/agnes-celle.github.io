@@ -5,7 +5,7 @@ permalink: /publication/1994-La traduction de will
 excerpt: ''
 date: 1994-01-01
 venue: 'Linguistique contrastive et traduction'
-citation: 'Celle (1994). “La traduction de will” in <i>Linguistique contrastive et traduction.</i> Tome 3, Paris, Ophry'
+citation: '1994 « La traduction de <i>will</i>. » <i>Linguistique contrastive et traduction</i>. Tome 3, Paris, Ophrys : 87-139'
 category: 'Book chapters'
 ---
-Celle (1994). “La traduction de will” in <i>Linguistique contrastive et traduction.</i> Tome 3, Paris, Ophry
+1994 « La traduction de <i>will</i>. » <i>Linguistique contrastive et traduction</i>. Tome 3, Paris, Ophrys : 87-139

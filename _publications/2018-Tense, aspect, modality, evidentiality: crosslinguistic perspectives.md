@@ -5,7 +5,7 @@ permalink: /publication/2018-Tense, aspect, modality, evidentiality crosslinguis
 excerpt: ''
 date: 2018-01-01
 venue: 'Amsterdam/Philadelphia: John Benjamins'
-citation: 'Ayoun, Celle, Lansari (2018). “Tense, aspect, modality, evidentiality: crosslinguistic perspectives”, <i>Amsterdam/Philadelphia: John Benjamins</i>'
+citation: '2018 (- avec D. Ayoun et L. Lansari, eds) <i>Tense, aspect, modality, evidentiality: crosslinguistic perspectives.</i> Amsterdam/Philadelphia: John Benjamins'
 category: '(Co-)edited books'
 ---
-Ayoun, Celle, Lansari (2018). “Tense, aspect, modality, evidentiality: crosslinguistic perspectives”, <i>Amsterdam/Philadelphia: John Benjamins</i>
+2018 (- avec D. Ayoun et L. Lansari, eds) <i>Tense, aspect, modality, evidentiality: crosslinguistic perspectives.</i> Amsterdam/Philadelphia: John Benjamins

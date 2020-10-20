@@ -5,7 +5,7 @@ permalink: /publication/2004-Contradiction et altérité(s)  le cas de now  main
 excerpt: ''
 date: 2004-01-01
 venue: 'La contradiction'
-citation: 'Celle (2004). “Contradiction et altérité(s) : le cas de now / maintenant” in M. Bandry &amp; J.-M. Maguin (eds) <i>La contradiction</i>. Actes du congrès de la Société des anglicistes de l’enseignement supérieur, 2001. Montpellier, Université Paul Valéry'
+citation: '2004 « Contradiction et altérité(s) : le cas de <i>now / maintenant</i> » M. Bandry &amp; J.-M. Maguin (eds) <i>La contradiction</i>. Actes du congrès de la Société des anglicistes de l’enseignement supérieur, 2001. Montpellier, Université Paul Valéry : 17-34.'
 category: 'Conference proceedings'
 ---
-Celle (2004). “Contradiction et altérité(s) : le cas de now / maintenant” in M. Bandry & J.-M. Maguin (eds) <i>La contradiction</i>. Actes du congrès de la Société des anglicistes de l’enseignement supérieur, 2001. Montpellier, Université Paul Valéry
+2004 « Contradiction et altérité(s) : le cas de <i>now / maintenant</i> » M. Bandry & J.-M. Maguin (eds) <i>La contradiction</i>. Actes du congrès de la Société des anglicistes de l’enseignement supérieur, 2001. Montpellier, Université Paul Valéry : 17-34.

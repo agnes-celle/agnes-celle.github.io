@@ -5,7 +5,7 @@ permalink: /publication/2000-De la deixis temporelle à la deixis discursive
 excerpt: ''
 date: 2000-01-01
 venue: 'Linguistique contrastive et traduction'
-citation: 'Celle (2000). “De la deixis temporelle à la deixis discursive” in <i>Linguistique contrastive et traduction<i>. Tome 5, Paris, Ophrys'
+citation: '2000 « De la deixis temporelle à la deixis discursive. <i>Linguistique contrastive et traduction</i>. Tome 5, Paris, Ophrys : 87-111'
 category: 'Book chapters'
 ---
-Celle (2000). “De la deixis temporelle à la deixis discursive” in <i>Linguistique contrastive et traduction<i>. Tome 5, Paris, Ophrys
+2000 « De la deixis temporelle à la deixis discursive. <i>Linguistique contrastive et traduction</i>. Tome 5, Paris, Ophrys : 87-111

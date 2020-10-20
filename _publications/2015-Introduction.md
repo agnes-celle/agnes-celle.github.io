@@ -5,7 +5,7 @@ permalink: /publication/2015-Introduction
 excerpt: ''
 date: 2015-01-01
 venue: 'Special Issue of Review of Cognitive Linguistics 13/2'
-citation: 'Celle, Lansari (2015). “Introduction” <i>Special Issue of Review of Cognitive Linguistics 13/2</i>'
+citation: '2015 (- avec L. Lansari) “Introduction” <i>Special Issue of Review of Cognitive Linguistics</i> 13/2, 265-269'
 category: 'Journal articles'
 ---
-Celle, Lansari (2015). “Introduction” <i>Special Issue of Review of Cognitive Linguistics 13/2</i>
+2015 (- avec L. Lansari) “Introduction” <i>Special Issue of Review of Cognitive Linguistics</i> 13/2, 265-269

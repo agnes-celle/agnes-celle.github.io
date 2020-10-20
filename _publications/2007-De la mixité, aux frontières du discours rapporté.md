@@ -5,7 +5,7 @@ permalink: /publication/2007-De la mixité, aux frontières du discours rapport�
 excerpt: ''
 date: 2007-01-01
 venue: 'Cahiers Charles V'
-citation: 'Celle (2007). “De la mixité, aux frontières du discours rapporté” <i>Cahiers Charles V n°43, Université Paris Diderot</i>'
+citation: '2007 (ed.) <i>De la mixité, aux frontières du discours rapporté</i>. Cahiers Charles V n°43, Université Paris Diderot'
 category: '(Co-)edited books'
 ---
-Celle (2007). “De la mixité, aux frontières du discours rapporté” <i>Cahiers Charles V n°43, Université Paris Diderot</i>
+2007 (ed.) <i>De la mixité, aux frontières du discours rapporté</i>. Cahiers Charles V n°43, Université Paris Diderot

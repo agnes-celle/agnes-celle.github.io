@@ -5,7 +5,7 @@ permalink: /publication/2007-Analyse unifiée du conditionnel de non prise en ch
 excerpt: ''
 date: 2007-01-01
 venue: 'Cahiers Chronos n°19'
-citation: 'Celle (2007). &quot;Analyse unifiée du conditionnel de non prise en charge en français et comparaison avec l’anglais” <i>Cahiers Chronos n°19</i>'
+citation: '2007 “Analyse unifiée du conditionnel de non prise en charge en français et comparaison avec l’anglais » in <i>Cahiers Chronos</i> n°19. <i>Etudes sémantiques et pragmatiques sur le temps, l&apos;aspect et la modalité</i>. 43-61'
 category: 'Journal articles'
 ---
-Celle (2007). "Analyse unifiée du conditionnel de non prise en charge en français et comparaison avec l’anglais” <i>Cahiers Chronos n°19</i>
+2007 “Analyse unifiée du conditionnel de non prise en charge en français et comparaison avec l’anglais » in <i>Cahiers Chronos</i> n°19. <i>Etudes sémantiques et pragmatiques sur le temps, l'aspect et la modalité</i>. 43-61

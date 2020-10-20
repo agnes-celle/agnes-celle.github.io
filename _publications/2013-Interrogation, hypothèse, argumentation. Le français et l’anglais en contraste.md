@@ -5,7 +5,7 @@ permalink: /publication/2013-Interrogation, hypothèse, argumentation. Le franç
 excerpt: ''
 date: 2013-01-01
 venue: 'Translation and Meaning'
-citation: 'Celle (2013). “Interrogation, hypothèse, argumentation. Le français et l’anglais en contraste” in Barbara Lewandowska-Tomaszczyk and Marcel Thelen (eds) <i>“Translation and Meaning”</i>, Part 10, Maastricht: Zuyd University of Applied Sciences, Maastricht School of Translation and Interpreting'
+citation: '2013 « Interrogation, hypothèse, argumentation. Le français et l’anglais en contraste » in Barbara Lewandowska-Tomaszczyk and Marcel Thelen (eds) “<i>Translation and Meaning</i>”, Part 10, Maastricht: Zuyd University of Applied Sciences, Maastricht School of Translation and Interpreting, 93-107'
 category: 'Conference proceedings'
 ---
-Celle (2013). “Interrogation, hypothèse, argumentation. Le français et l’anglais en contraste” in Barbara Lewandowska-Tomaszczyk and Marcel Thelen (eds) <i>“Translation and Meaning”</i>, Part 10, Maastricht: Zuyd University of Applied Sciences, Maastricht School of Translation and Interpreting
+2013 « Interrogation, hypothèse, argumentation. Le français et l’anglais en contraste » in Barbara Lewandowska-Tomaszczyk and Marcel Thelen (eds) “<i>Translation and Meaning</i>”, Part 10, Maastricht: Zuyd University of Applied Sciences, Maastricht School of Translation and Interpreting, 93-107

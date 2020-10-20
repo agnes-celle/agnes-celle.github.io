@@ -5,7 +5,7 @@ permalink: /publication/2006-Compte-rendu de Von Münchow, P. & F. Rakotonoelina
 excerpt: ''
 date: 2006-01-01
 venue: 'Cahiers de praxématique'
-citation: 'Celle (2006). Compte-rendu de Von Münchow, P. &amp; F. Rakotonoelina (eds) <i>Discours, cultures, comparaisons</i>. <i>Cahiers de praxématique,</i> n°46, <i>Changements linguistiques, figement, lexicalisation, grammaticalisation</i>'
+citation: '2006 Compte-rendu de Von Münchow, P. &amp; F. Rakotonoelina (eds) <i>Discours, cultures, comparaisons. Cahiers de praxématique</i>, n°46, <i>Changements linguistiques, figement, lexicalisation, grammaticalisation</i>, 199-202'
 category: 'Book reviews'
 ---
-Celle (2006). Compte-rendu de Von Münchow, P. & F. Rakotonoelina (eds) <i>Discours, cultures, comparaisons</i>. <i>Cahiers de praxématique,</i> n°46, <i>Changements linguistiques, figement, lexicalisation, grammaticalisation</i>
+2006 Compte-rendu de Von Münchow, P. & F. Rakotonoelina (eds) <i>Discours, cultures, comparaisons. Cahiers de praxématique</i>, n°46, <i>Changements linguistiques, figement, lexicalisation, grammaticalisation</i>, 199-202

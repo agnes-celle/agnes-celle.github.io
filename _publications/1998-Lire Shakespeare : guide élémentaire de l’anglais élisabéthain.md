@@ -5,7 +5,7 @@ permalink: /publication/1998-Lire Shakespeare  guide élémentaire de l’anglai
 excerpt: ''
 date: 1998-01-01
 venue: 'Cahiers Charles V n°24, Shakespeare, Préjugés et Tolérance'
-citation: 'Celle, Hoarau (1998). “Lire Shakespeare : guide élémentaire de l’anglais élisabéthain” <i>Cahiers Charles V n°24, Shakespeare, Préjugés et Tolérance</i>'
+citation: '1998 « Lire Shakespeare : guide élémentaire de l’anglais élisabéthain » <i>Cahiers Charles V</i> n°24, <i>Shakespeare, Préjugés et Tolérance</i>, en collaboration avec L. Hoarau. 171-196'
 category: 'Journal articles'
 ---
-Celle, Hoarau (1998). “Lire Shakespeare : guide élémentaire de l’anglais élisabéthain” <i>Cahiers Charles V n°24, Shakespeare, Préjugés et Tolérance</i>
+1998 « Lire Shakespeare : guide élémentaire de l’anglais élisabéthain » <i>Cahiers Charles V</i> n°24, <i>Shakespeare, Préjugés et Tolérance</i>, en collaboration avec L. Hoarau. 171-196

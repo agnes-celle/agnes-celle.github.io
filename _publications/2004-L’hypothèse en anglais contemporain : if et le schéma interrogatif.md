@@ -5,7 +5,7 @@ permalink: /publication/2004-L’hypothèse en anglais contemporain  if et le sc
 excerpt: ''
 date: 2004-01-01
 venue: 'L’hypothèse au miroir des langues'
-citation: 'Celle (2004). “L’hypothèse en anglais contemporain : if et le schéma interrogatif” in C. Hare (ed.) <i>L’hypothèse au miroir des langues.</i> Paris : L’Harmattan'
+citation: '2004 « L’hypothèse en anglais contemporain : <i>if</i> et le schéma interrogatif », C. Hare (ed.) <i>L’hypothèse au miroir des langues</i>. Paris : L’Harmattan. 15-42'
 category: 'Book chapters'
 ---
-Celle (2004). “L’hypothèse en anglais contemporain : if et le schéma interrogatif” in C. Hare (ed.) <i>L’hypothèse au miroir des langues.</i> Paris : L’Harmattan
+2004 « L’hypothèse en anglais contemporain : <i>if</i> et le schéma interrogatif », C. Hare (ed.) <i>L’hypothèse au miroir des langues</i>. Paris : L’Harmattan. 15-42
