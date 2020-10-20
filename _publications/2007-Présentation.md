@@ -8,6 +8,4 @@ venue: 'Cahier Charles V n°42, De la mixité – aux frontières du discours ra
 citation: 'Celle (2007). “Présentation” in <i>Cahier Charles V n°42, De la mixité – aux frontières du discours rapporté.</i> Paris : Université Paris-Diderot'
 category: 'Book chapters'
 ---
-Paris : Université Paris-Diderot
-
-Recommended citation: Celle (2007). “Présentation” in <i>Cahier Charles V n°42, De la mixité – aux frontières du discours rapporté.</i> Paris : Université Paris-Diderot
+Celle (2007). “Présentation” in <i>Cahier Charles V n°42, De la mixité – aux frontières du discours rapporté.</i> Paris : Université Paris-Diderot

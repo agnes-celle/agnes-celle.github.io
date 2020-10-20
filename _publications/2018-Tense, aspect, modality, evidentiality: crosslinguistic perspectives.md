@@ -8,6 +8,4 @@ venue: 'Amsterdam/Philadelphia: John Benjamins'
 citation: 'Ayoun, Celle, Lansari (2018). “Tense, aspect, modality, evidentiality: crosslinguistic perspectives”, <i>Amsterdam/Philadelphia: John Benjamins</i>'
 category: '(Co-)edited books'
 ---
-With D. Ayoun and L. Lansari (eds)
-
-Recommended citation: Ayoun, Celle, Lansari (2018). “Tense, aspect, modality, evidentiality: crosslinguistic perspectives”, <i>Amsterdam/Philadelphia: John Benjamins</i>
+Ayoun, Celle, Lansari (2018). “Tense, aspect, modality, evidentiality: crosslinguistic perspectives”, <i>Amsterdam/Philadelphia: John Benjamins</i>

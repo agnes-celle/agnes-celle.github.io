@@ -8,6 +8,4 @@ venue: 'Revue Française de Linguistique Appliquée'
 citation: 'Celle (2009). “Question, mise en question: la traduction de l’interrogation dans le discours théorique” <i>Revue Française de Linguistique Appliquée</i>'
 category: 'Journal articles'
 ---
-XIV 2009/1, 39-52
-
-Recommended citation: Celle (2009). “Question, mise en question: la traduction de l’interrogation dans le discours théorique” <i>Revue Française de Linguistique Appliquée</i>
+Celle (2009). “Question, mise en question: la traduction de l’interrogation dans le discours théorique” <i>Revue Française de Linguistique Appliquée</i>

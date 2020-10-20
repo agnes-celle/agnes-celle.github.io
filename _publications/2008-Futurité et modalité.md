@@ -8,6 +8,4 @@ venue: 'Auxiliaire et auxiliation, l’expression de la futurité. Recherches en
 citation: 'Celle (2008). “Futurité et modalité” in Pauchard J. (ed.) <i>Auxiliaire et auxiliation, l’expression de la futurité. Recherches en linguistique et psychologie cognitive</i>, n°22. Reims : Editions et Presses Universitaires de Reims'
 category: 'Book chapters'
 ---
-Reims : Editions et Presses Universitaires de Reims, pages 105-129
-
-Recommended citation: Celle (2008). “Futurité et modalité” in Pauchard J. (ed.) <i>Auxiliaire et auxiliation, l’expression de la futurité. Recherches en linguistique et psychologie cognitive</i>, n°22. Reims : Editions et Presses Universitaires de Reims
+Celle (2008). “Futurité et modalité” in Pauchard J. (ed.) <i>Auxiliaire et auxiliation, l’expression de la futurité. Recherches en linguistique et psychologie cognitive</i>, n°22. Reims : Editions et Presses Universitaires de Reims

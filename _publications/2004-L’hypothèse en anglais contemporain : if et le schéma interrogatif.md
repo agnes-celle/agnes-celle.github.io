@@ -8,6 +8,4 @@ venue: 'L’hypothèse au miroir des langues'
 citation: 'Celle (2004). “L’hypothèse en anglais contemporain : if et le schéma interrogatif” in C. Hare (ed.) <i>L’hypothèse au miroir des langues.</i> Paris : L’Harmattan'
 category: 'Book chapters'
 ---
-Paris : L’Harmattan, pages 15-42
-
-Recommended citation: Celle (2004). “L’hypothèse en anglais contemporain : if et le schéma interrogatif” in C. Hare (ed.) <i>L’hypothèse au miroir des langues.</i> Paris : L’Harmattan
+Celle (2004). “L’hypothèse en anglais contemporain : if et le schéma interrogatif” in C. Hare (ed.) <i>L’hypothèse au miroir des langues.</i> Paris : L’Harmattan

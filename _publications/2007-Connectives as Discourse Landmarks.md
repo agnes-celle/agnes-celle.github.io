@@ -8,6 +8,4 @@ venue: 'Amsterdam, Philadelphie : John Benjamins'
 citation: 'Celle, Huart (2007). “Connectives as Discourse Landmarks” <i>Amsterdam, Philadelphie : John Benjamins. [Pragmatics and Beyond New Series]</i>'
 category: '(Co-)edited books'
 ---
-With R. Huart (eds)
-
-Recommended citation: Celle, Huart (2007). “Connectives as Discourse Landmarks” <i>Amsterdam, Philadelphie : John Benjamins. [Pragmatics and Beyond New Series]</i>
+Celle, Huart (2007). “Connectives as Discourse Landmarks” <i>Amsterdam, Philadelphie : John Benjamins. [Pragmatics and Beyond New Series]</i>

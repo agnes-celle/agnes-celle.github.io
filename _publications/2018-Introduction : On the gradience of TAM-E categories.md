@@ -8,8 +8,4 @@ venue: 'Tense, aspect, modality, evidentiality: crosslinguistic perspectives'
 citation: 'Ayoun, Celle, Lansari (2018). “Introduction : On the gradience of TAM-E categories” in Dalila Ayoun, Agnès Celle &amp; Laure Lansari (eds) in <i>Tense, aspect, modality, and evidentiality – Crosslinguistic perspectives.</i> Amsterdam, Philadelphia: John Benjamins'
 category: 'Book chapters'
 ---
-With D. Ayoun, L. Lansari 
-
- Amsterdam, Philadelphia: John Benjamins, pages 1-18
-
-Recommended citation: Ayoun, Celle, Lansari (2018). “Introduction : On the gradience of TAM-E categories” in Dalila Ayoun, Agnès Celle & Laure Lansari (eds) in <i>Tense, aspect, modality, and evidentiality – Crosslinguistic perspectives.</i> Amsterdam, Philadelphia: John Benjamins
+Ayoun, Celle, Lansari (2018). “Introduction : On the gradience of TAM-E categories” in Dalila Ayoun, Agnès Celle & Laure Lansari (eds) in <i>Tense, aspect, modality, and evidentiality – Crosslinguistic perspectives.</i> Amsterdam, Philadelphia: John Benjamins

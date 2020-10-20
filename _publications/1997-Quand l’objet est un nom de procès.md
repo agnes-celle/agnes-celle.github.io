@@ -8,6 +8,4 @@ venue: 'Cahiers Charles V n° 23, La Transitivité'
 citation: 'Celle (1997). “Quand l’objet est un nom de procès” <i>Cahiers Charles V n° 23, La Transitivité</i>'
 category: 'Journal articles'
 ---
-139 – 172
-
-Recommended citation: Celle (1997). “Quand l’objet est un nom de procès” <i>Cahiers Charles V n° 23, La Transitivité</i>
+Celle (1997). “Quand l’objet est un nom de procès” <i>Cahiers Charles V n° 23, La Transitivité</i>

@@ -8,6 +8,4 @@ venue: 'Cahiers de praxématique'
 citation: 'Celle (2010). Compte-rendu de Doro-Megy F. <i>Etude croisée de</i> think, believe, croire <i>et</i> penser, Paris : Ophrys, 232 p. <i>Cahiers de praxématique</i> n°50'
 category: 'Book reviews'
 ---
-n°50, pages 245-24
-
-Recommended citation: Celle (2010). Compte-rendu de Doro-Megy F. <i>Etude croisée de</i> think, believe, croire <i>et</i> penser, Paris : Ophrys, 232 p. <i>Cahiers de praxématique</i> n°50
+Celle (2010). Compte-rendu de Doro-Megy F. <i>Etude croisée de</i> think, believe, croire <i>et</i> penser, Paris : Ophrys, 232 p. <i>Cahiers de praxématique</i> n°50

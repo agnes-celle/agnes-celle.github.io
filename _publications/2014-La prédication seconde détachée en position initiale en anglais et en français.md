@@ -12,6 +12,4 @@ category: 'Journal articles'
 
 <a href='http://corpus.revues.org/2466'>Download paper here</a>
 
-With L. Lansari, 129-163
-
-Recommended citation: Celle, Lansari (2014). “La prédication seconde détachée en position initiale en anglais et en français” <i>Corpus 13, Eléments initiaux dans la phrase, approches inter-genres et inter-langues</i>
+Celle, Lansari (2014). “La prédication seconde détachée en position initiale en anglais et en français” <i>Corpus 13, Eléments initiaux dans la phrase, approches inter-genres et inter-langues</i>

@@ -8,6 +8,4 @@ venue: 'Des Mots aux Actes 7 : Sémantique(s), sémiotique(s) et traduction'
 citation: 'Bondarenko, Celle (2019). “Traduire l’absence : les questions à prédicat zéro dans un corpus parallèle russe et anglais” <i>Des Mots aux Actes 7 : Sémantique(s), sémiotique(s) et traduction</i>'
 category: 'Journal articles'
 ---
-With Antonia Bondarenko, 341-363
-
-Recommended citation: Bondarenko, Celle (2019). “Traduire l’absence : les questions à prédicat zéro dans un corpus parallèle russe et anglais” <i>Des Mots aux Actes 7 : Sémantique(s), sémiotique(s) et traduction</i>
+Bondarenko, Celle (2019). “Traduire l’absence : les questions à prédicat zéro dans un corpus parallèle russe et anglais” <i>Des Mots aux Actes 7 : Sémantique(s), sémiotique(s) et traduction</i>

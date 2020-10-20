@@ -8,6 +8,4 @@ venue: 'Linguistique contrastive et traduction'
 citation: 'Celle (2000). “De la deixis temporelle à la deixis discursive” in <i>Linguistique contrastive et traduction<i>. Tome 5, Paris, Ophrys'
 category: 'Book chapters'
 ---
-Tome 5, Paris, Ophrys, pages 87-111
-
-Recommended citation: Celle (2000). “De la deixis temporelle à la deixis discursive” in <i>Linguistique contrastive et traduction<i>. Tome 5, Paris, Ophrys
+Celle (2000). “De la deixis temporelle à la deixis discursive” in <i>Linguistique contrastive et traduction<i>. Tome 5, Paris, Ophrys

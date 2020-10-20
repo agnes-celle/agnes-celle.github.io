@@ -8,6 +8,4 @@ venue: 'Berne : Peter Lang'
 citation: 'Celle, Gresset, Huart (2007). “Les connecteurs, jalons du discours” <i>Berne : Peter Lang. [Collection Sciences pour la communication]</i>'
 category: '(Co-)edited books'
 ---
-With S. Gresset and R. Huart (eds)
-
-Recommended citation: Celle, Gresset, Huart (2007). “Les connecteurs, jalons du discours” <i>Berne : Peter Lang. [Collection Sciences pour la communication]</i>
+Celle, Gresset, Huart (2007). “Les connecteurs, jalons du discours” <i>Berne : Peter Lang. [Collection Sciences pour la communication]</i>

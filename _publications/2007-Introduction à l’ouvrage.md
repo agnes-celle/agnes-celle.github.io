@@ -8,8 +8,4 @@ venue: 'Connectives as Discourse Landmarks'
 citation: 'Celle, Huart (2007). “Introduction” in <i>Connectives as Discourse Landmarks</i>, Amsterdam, Philadelphie : John Benjamins'
 category: 'Book chapters'
 ---
-With R. Huart 
-
- Amsterdam, Philadelphie : John Benjamins
-
-Recommended citation: Celle, Huart (2007). “Introduction” in <i>Connectives as Discourse Landmarks</i>, Amsterdam, Philadelphie : John Benjamins
+Celle, Huart (2007). “Introduction” in <i>Connectives as Discourse Landmarks</i>, Amsterdam, Philadelphie : John Benjamins

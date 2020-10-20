@@ -8,8 +8,4 @@ venue: 'Représentations du sens linguistique : les interfaces de la complexité
 citation: 'Celle, Lansari (2017). “L’inattendu et le questionnement dans l’interaction verbale en anglais : les questions en « why – would » et leurs réponses” in Olga Galatanu, Ana-Maria Cozma et Abdelhadi Bellachhab (eds) <i>Représentations du sens linguistique : les interfaces de la complexité</i>, Peter Lang'
 category: 'Book chapters'
 ---
-With L. Lansari 
-
- Peter Lang, pages 235-248
-
-Recommended citation: Celle, Lansari (2017). “L’inattendu et le questionnement dans l’interaction verbale en anglais : les questions en « why – would » et leurs réponses” in Olga Galatanu, Ana-Maria Cozma et Abdelhadi Bellachhab (eds) <i>Représentations du sens linguistique : les interfaces de la complexité</i>, Peter Lang
+Celle, Lansari (2017). “L’inattendu et le questionnement dans l’interaction verbale en anglais : les questions en « why – would » et leurs réponses” in Olga Galatanu, Ana-Maria Cozma et Abdelhadi Bellachhab (eds) <i>Représentations du sens linguistique : les interfaces de la complexité</i>, Peter Lang

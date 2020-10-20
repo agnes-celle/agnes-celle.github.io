@@ -12,6 +12,4 @@ category: 'Journal articles'
 
 <a href='http://erea.revues.org/3450'>Download paper here</a>
 
-With E. Bauer. 11.1., L’ordre des mots dans l’espace de la phrase
-
-Recommended citation: Baumer, Celle (2013). “Adverbiaux cadratifs et expressions référentielles dans les articles journalistiques: étude comparée français – anglais” <i>E-Rea, Revue électronique d’études sur le monde Anglophone</i>
+Baumer, Celle (2013). “Adverbiaux cadratifs et expressions référentielles dans les articles journalistiques: étude comparée français – anglais” <i>E-Rea, Revue électronique d’études sur le monde Anglophone</i>

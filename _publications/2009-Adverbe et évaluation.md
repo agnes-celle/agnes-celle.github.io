@@ -8,6 +8,4 @@ venue: 'la Globalisation communicationnelle, enrichissement et menace pour les l
 citation: 'Celle (2009). “Adverbe et évaluation” in Jereczek-Lipinska, J. (ed.) <i>la Globalisation communicationnelle, enrichissement et menace pour les langues.</i> Gdansk : Université de Gdansk'
 category: 'Conference proceedings'
 ---
-Gdansk : Université de Gdansk, pages 63-74
-
-Recommended citation: Celle (2009). “Adverbe et évaluation” in Jereczek-Lipinska, J. (ed.) <i>la Globalisation communicationnelle, enrichissement et menace pour les langues.</i> Gdansk : Université de Gdansk
+Celle (2009). “Adverbe et évaluation” in Jereczek-Lipinska, J. (ed.) <i>la Globalisation communicationnelle, enrichissement et menace pour les langues.</i> Gdansk : Université de Gdansk

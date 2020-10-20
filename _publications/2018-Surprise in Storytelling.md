@@ -8,6 +8,4 @@ venue: 'L’expression des sentiments: de l’analyse linguistique aux applicati
 citation: 'Celle (2018). “Surprise in Storytelling”, in R. Nita &amp; F. Valetopoulos (eds). <i>L’expression des sentiments: de l’analyse linguistique aux applications.</i> Rennes : Presses universitaires de Rennes'
 category: 'Book chapters'
 ---
-Rennes : Presses universitaires de Rennes, pages 227-248
-
-Recommended citation: Celle (2018). “Surprise in Storytelling”, in R. Nita & F. Valetopoulos (eds). <i>L’expression des sentiments: de l’analyse linguistique aux applications.</i> Rennes : Presses universitaires de Rennes
+Celle (2018). “Surprise in Storytelling”, in R. Nita & F. Valetopoulos (eds). <i>L’expression des sentiments: de l’analyse linguistique aux applications.</i> Rennes : Presses universitaires de Rennes

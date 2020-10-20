@@ -8,6 +8,4 @@ venue: 'Anglophonia'
 citation: 'Celle (2001). “Men will be growing breasts, on will + be –ing in contemporary English” <i>Anglophonia/Caliban n9</i>'
 category: 'Journal articles'
 ---
-Caliban n°9. 23-40
-
-Recommended citation: Celle (2001). “Men will be growing breasts, on will + be –ing in contemporary English” <i>Anglophonia/Caliban n9</i>
+Celle (2001). “Men will be growing breasts, on will + be –ing in contemporary English” <i>Anglophonia/Caliban n9</i>

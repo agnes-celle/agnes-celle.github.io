@@ -8,6 +8,4 @@ venue: 'Languages in Contrast'
 citation: 'Celle (2009). &quot;The intersubjective function of modal adverbs: a contrastive English-French study of adverbials in journalistic discourse” <i>Languages in Contrast</i>'
 category: 'Journal articles'
 ---
-9:1, 23-36
-
-Recommended citation: Celle (2009). "The intersubjective function of modal adverbs: a contrastive English-French study of adverbials in journalistic discourse” <i>Languages in Contrast</i>
+Celle (2009). "The intersubjective function of modal adverbs: a contrastive English-French study of adverbials in journalistic discourse” <i>Languages in Contrast</i>

@@ -8,6 +8,4 @@ venue: 'Le discours rapporté dans tous ses états : question de frontières'
 citation: 'Celle (2004). “La traduction du conditionnel journalistique : modes de construction de l’altérité énonciative en français, en allemand et en anglais” in Sophie Marnette, J.M. Lopez-Muñoz &amp; Laurence Rosier. <i>Le discours rapporté dans tous ses états : question de frontières</i>, Paris : L’Harmattan'
 category: 'Conference proceedings'
 ---
-Paris : L’Harmattan, pages 500-509
-
-Recommended citation: Celle (2004). “La traduction du conditionnel journalistique : modes de construction de l’altérité énonciative en français, en allemand et en anglais” in Sophie Marnette, J.M. Lopez-Muñoz & Laurence Rosier. <i>Le discours rapporté dans tous ses états : question de frontières</i>, Paris : L’Harmattan
+Celle (2004). “La traduction du conditionnel journalistique : modes de construction de l’altérité énonciative en français, en allemand et en anglais” in Sophie Marnette, J.M. Lopez-Muñoz & Laurence Rosier. <i>Le discours rapporté dans tous ses états : question de frontières</i>, Paris : L’Harmattan

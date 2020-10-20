@@ -8,6 +8,4 @@ venue: 'Toulouse : PUM'
 citation: 'Celle, Gresset (2003). “La subordination en anglais : une approche énonciative” <i>Toulouse : PUM</i>'
 category: '(Co-)edited books'
 ---
-With S. Gresset, 246 pages
-
-Recommended citation: Celle, Gresset (2003). “La subordination en anglais : une approche énonciative” <i>Toulouse : PUM</i>
+Celle, Gresset (2003). “La subordination en anglais : une approche énonciative” <i>Toulouse : PUM</i>

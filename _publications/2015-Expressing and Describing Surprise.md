@@ -8,6 +8,4 @@ venue: 'Review of Cognitive Linguistics'
 citation: 'Celle, Lansari (2015). “Expressing and Describing Surprise” <i>Review of Cognitive Linguistics, Special Issue 13/2</i>'
 category: '(Co-)edited books'
 ---
-With L. Lansari. Special Issue, 13/2
-
-Recommended citation: Celle, Lansari (2015). “Expressing and Describing Surprise” <i>Review of Cognitive Linguistics, Special Issue 13/2</i>
+Celle, Lansari (2015). “Expressing and Describing Surprise” <i>Review of Cognitive Linguistics, Special Issue 13/2</i>

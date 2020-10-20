@@ -8,6 +8,4 @@ venue: 'English Language and Linguistics, 14/2'
 citation: 'Celle, Smith (2010). “Beyond aspect: will + be-ing and shall + be-ing” <i>English Language and Linguistics, 14/2</i>'
 category: 'Journal articles'
 ---
-With N. Smith, 239-269
-
-Recommended citation: Celle, Smith (2010). “Beyond aspect: will + be-ing and shall + be-ing” <i>English Language and Linguistics, 14/2</i>
+Celle, Smith (2010). “Beyond aspect: will + be-ing and shall + be-ing” <i>English Language and Linguistics, 14/2</i>

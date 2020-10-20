@@ -8,6 +8,4 @@ venue: 'Anuari de Filologia. Estudis de Linguistica'
 citation: 'Celle (2020). “How evidential is the epistemic conditional?” <i>Anuari de Filologia. Estudis de Linguistica</i>'
 category: 'Journal articles'
 ---
-10. Special issue on evidentiality
-
-Recommended citation: Celle (2020). “How evidential is the epistemic conditional?” <i>Anuari de Filologia. Estudis de Linguistica</i>
+Celle (2020). “How evidential is the epistemic conditional?” <i>Anuari de Filologia. Estudis de Linguistica</i>

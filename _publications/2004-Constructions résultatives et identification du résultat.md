@@ -12,8 +12,4 @@ category: 'Conference proceedings'
 
 <a href='http://revel.unice.fr/cycnos/index.html?id=12'>Download paper here</a>
 
-Vol. 21, n°1, <i>L’identification</i> 
-
-Nice : Université de Sophia-Antipolis, 195-212
-
-Recommended citation: Celle (2004). “Constructions résultatives et identification du résultat” in J.-C. Souesme (ed.) <i>Cycnos</i> vol. 21, n°1, <i>L’identification</i>. Nice : Université de Sophia-Antipolis
+Celle (2004). “Constructions résultatives et identification du résultat” in J.-C. Souesme (ed.) <i>Cycnos</i> vol. 21, n°1, <i>L’identification</i>. Nice : Université de Sophia-Antipolis

@@ -8,6 +8,4 @@ venue: 'Paris, L’improviste'
 citation: 'Celle, Komur (2010). “Le discours du nationalisme en Europe” <i>Paris, L’improviste</i>'
 category: '(Co-)edited books'
 ---
-With G. Komur (eds)
-
-Recommended citation: Celle, Komur (2010). “Le discours du nationalisme en Europe” <i>Paris, L’improviste</i>
+Celle, Komur (2010). “Le discours du nationalisme en Europe” <i>Paris, L’improviste</i>

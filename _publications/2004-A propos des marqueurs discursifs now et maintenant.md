@@ -8,6 +8,4 @@ venue: 'La contradiction en anglais'
 citation: 'Celle (2004). “A propos des marqueurs discursifs now et maintenant” <i>La contradiction en anglais</i>'
 category: 'Journal articles'
 ---
-CIEREC Travaux 116. 91-106
-
-Recommended citation: Celle (2004). “A propos des marqueurs discursifs now et maintenant” <i>La contradiction en anglais</i>
+Celle (2004). “A propos des marqueurs discursifs now et maintenant” <i>La contradiction en anglais</i>

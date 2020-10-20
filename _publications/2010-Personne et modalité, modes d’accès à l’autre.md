@@ -8,6 +8,4 @@ venue: 'Les représentations linguistiques de la personne'
 citation: 'Celle (2010). “Personne et modalité, modes d’accès à l’autre” in Lozano, José Vicente, Alain Blanc et Nicolas Ballier (eds.) <i>Les représentations linguistiques de la personne.</i> Rouen : Publications électroniques de l’ERIAC, Université de Rouen'
 category: 'Conference proceedings'
 ---
-Rouen : Publications électroniques de l’ERIAC, Université de Rouen
-
-Recommended citation: Celle (2010). “Personne et modalité, modes d’accès à l’autre” in Lozano, José Vicente, Alain Blanc et Nicolas Ballier (eds.) <i>Les représentations linguistiques de la personne.</i> Rouen : Publications électroniques de l’ERIAC, Université de Rouen
+Celle (2010). “Personne et modalité, modes d’accès à l’autre” in Lozano, José Vicente, Alain Blanc et Nicolas Ballier (eds.) <i>Les représentations linguistiques de la personne.</i> Rouen : Publications électroniques de l’ERIAC, Université de Rouen
